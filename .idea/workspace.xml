@@ -11,18 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aff42fb-6bad-4955-ae40-9967f1e24673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/svg/comment-ico.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/heart-ico.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/svg/odigo-logo-footer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606716774690</updated>
       <workItem from="1606716786217" duration="578000" />
-      <workItem from="1606750010237" duration="12873000" />
+      <workItem from="1606750010237" duration="13306000" />
     </task>
     <servers />
   </component>
